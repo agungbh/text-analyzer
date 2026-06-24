@@ -102,5 +102,7 @@ Aplikasi ini saat ini mengimplementasikan Mock API (Simulasi Logika Pemrosesan) 
 Untuk membawa aplikasi ini ke level produksi nyata, blok logika simulasi di bagian atas index.php (// --- LOGIKA SUMBER REAL ---) perlu diganti dengan permintaan cURL (cURL requests) yang terhubung langsung ke titik akhir API pihak ketiga (seperti OpenAI API untuk parafrase, ZeroGPT API untuk deteksi AI, dan Grammarly API untuk tata bahasa). Kredensial rahasia (API Keys) harus ditangani dengan hati-hati jika fitur tersebut diaktifkan.
 
 https://gemini.google.com/u/3/app/886846371d621705?pageId=none
+
 Hak Cipta © 2026 Agung Baitul Hikmah
 Kontak Pengembang: WA 0815-466-0328
+http://agungbaitul.byethost4.com/jurnal/
